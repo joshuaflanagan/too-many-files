@@ -1,1 +1,1 @@
-.yarn/cache/*.zip linguist-generated
+.yarn/cache/** linguist-generated=true
