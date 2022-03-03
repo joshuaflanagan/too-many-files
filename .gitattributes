@@ -1,0 +1,2 @@
+.yarn/cache/** linguist-vendored=true
+*.vendored linguist-vendored=true
