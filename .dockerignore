@@ -1,0 +1,5 @@
+.docusaurus
+.git
+.github
+node_modules/
+build/
